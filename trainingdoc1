@@ -1,0 +1,29 @@
+Source Code: Github
+
+CI/Build tool: Jenkins 
+
+Binary Storage : Artifactory 
+
+Distribution: Urban Code Deploy
+
+------------------
+
+Github 
+
+--repo_eft
+  Default -- master, release, develop
+
+Developer1 -- RTC - book of records  -- Agile stories create -- Assign to Developer (#9987)
+		
+--------> Clone ---cd repo--git branch----master----git checkout feature_9987---git branch--feature_9987-----commit1--push------
+
+github  --- develop  ---> 
+		--------->feature_9987   branch created -------->
+
+Developer2 -- RTC - book of records  -- Agile stories create -- Assign to Developer (#8897)
+		
+
+
+github  --- develop  ---> 
+		--------->feature_8897   branch created -------->
+
